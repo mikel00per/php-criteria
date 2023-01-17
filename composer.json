@@ -1,18 +1,18 @@
 {
-    "name": "mikelooper/php-library-template",
+    "name": "mikelooper/php-criteria",
     "type": "library",
     "description": "A template to create libraries",
     "keywords": ["library"],
-    "homepage": "https://github.com/mikel00per/php-library-template",
+    "homepage": "https://github.com/mikel00per/php-criteria",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "PhpLibraryTemplate\\": "src/"
+            "Criteria\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "PhpLibraryTemplate\\Tests\\": "tests/"
+            "Criteria\\Tests\\": "tests/"
         },
         "classmap": [
             "src/"
