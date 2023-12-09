@@ -26,6 +26,7 @@
     },
     "require": {
         "php": "^8.2",
+        "lambdish/phunctional": "^2",
         "mikelooper/collections": "^0",
         "mikelooper/value-objects": "^0"
     },
