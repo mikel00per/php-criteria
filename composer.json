@@ -25,7 +25,9 @@
         ]
     },
     "require": {
-        "php": "^8.2"
+        "php": "^8.2",
+        "mikelooper/collections": "^0",
+        "mikelooper/value-objects": "^0"
     },
     "require-dev": {
         "mikelooper/code-style": "^0",
