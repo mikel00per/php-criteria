@@ -2,7 +2,7 @@
 
 namespace Tests\Shared\Domain\Criteria\Units;
 
-use Tests\Criteria\Utils\TestCase;
+use Tests\Shared\Domain\Criteria\Utils\TestCase;
 
 class ExampleTest extends TestCase
 {

@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace Shared\Domain\Criteria;
 
-use Shared\Domain\Collection;
+use Shared\Domain\Collections\Collection;
 
 use function Lambdish\Phunctional\reduce;
 
