@@ -17,7 +17,7 @@ final class Filters extends Collection
 
     private static function filterBuilder(): callable
     {
-        return fn (array $values): Filter => Filter::fromValues($values);
+        return static fn (array $values): Filter => Filter::fromValues($values);
     }
 
     public function add(Filter $filter): self
