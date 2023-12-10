@@ -1,8 +1,8 @@
 <?php
 
-namespace Tests\Shared\Domain\Criteria\Units;
+namespace Tests\Shared\Units;
 
-use Tests\Shared\Domain\Criteria\Utils\TestCase;
+use Tests\Shared\Utils\TestCase;
 
 class ExampleTest extends TestCase
 {
