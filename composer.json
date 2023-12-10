@@ -13,12 +13,12 @@
     ],
     "autoload": {
         "psr-4": {
-            "Shared\\Domain\\Criteria\\": "src/"
+            "Shared\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Tests\\Shared\\Domain\\Criteria\\": "tests/"
+            "Tests\\Shared\\": "tests/"
         },
         "classmap": [
             "src/"
