@@ -5,7 +5,6 @@ declare(strict_types=1);
 namespace Shared\Domain\Criteria;
 
 use Shared\Domain\Collections\Collection;
-
 use function Lambdish\Phunctional\reduce;
 
 final class Filters extends Collection
