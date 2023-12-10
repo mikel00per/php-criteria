@@ -28,6 +28,7 @@
         "php": "^8.2",
         "lambdish/phunctional": "^2",
         "mikelooper/collections": "^0",
+        "mikelooper/persistence": "^0.0.1",
         "mikelooper/value-objects": "^0"
     },
     "require-dev": {
